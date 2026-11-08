@@ -1,8 +1,8 @@
 SOURCE-AVAILABLE CUSTOM LICENSE AND INTELLECTUAL PROPERTY PROTECTION AGREEMENT
 
-Copyright (c) 2026 [Your Name or Username]. All Rights Reserved.
+Copyright (c) 2026 [evanjjj2]. All Rights Reserved.
 
-IMPORTANT—READ CAREFULLY: This is a binding legal agreement between you (either an individual or a single entity, hereinafter "Licensee") and the Copyright Holder ("[Your Name or Username]"). By downloading, installing, viewing, copying, or otherwise utilizing this software, source code, or associated documentation (the "Software"), you explicitly agree to be bound by the terms of this License. If you do not agree to these terms, you have no right to access, view, or use the Software.
+IMPORTANT—READ CAREFULLY: This is a binding legal agreement between you (either an individual or a single entity, hereinafter "Licensee") and the Copyright Holder ("[evanjjj2]"). By downloading, installing, viewing, copying, or otherwise utilizing this software, source code, or associated documentation (the "Software"), you explicitly agree to be bound by the terms of this License. If you do not agree to these terms, you have no right to access, view, or use the Software.
 
 1. DEFINITIONS
 "Software" means the source code, layout, assets, binaries, documentation, and any associated files provided under this agreement.
@@ -31,7 +31,7 @@ Licensee, as well as any automated web scrapers, bots, or data-mining systems ac
 6. PERMISSION REQUESTS AND MANDATORY ATTRIBUTION
 To request written permission for modification, redistribution, or reuse of the Software, Licensee must contact the Copyright Holder at:
 
-Contact Method: [Insert your email, GitHub profile, or social media link here]
+Contact Method: [28evan.jenkins@student.rochester.wednet.edu]
 
 In the event that the Copyright Holder grants explicit written permission to reuse or redistribute the Software, Licensee is strictly required to preserve and prominently display the original copyright notice and a visible attribution link to the Copyright Holder in all copies or substantial portions of the Software.
 
