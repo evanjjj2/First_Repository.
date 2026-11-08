@@ -1,0 +1,81 @@
+# ==========================================
+# 1. SECURITY & PRIVACY (CRITICAL)
+# ==========================================
+# Never commit credentials, API keys, or environment settings
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+*.secret
+private/
+
+# ==========================================
+# 2. OPERATING SYSTEM JUNK
+# ==========================================
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon_
+
+# Windows system files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+
+# ==========================================
+# 3. TEXT EDITOR / IDE CONFIGURATIONS
+# ==========================================
+# VS Code settings (except shared tasks)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/
+
+# IntelliJ / WebStorm / PyCharm
+.idea/
+*.iws
+*.iml
+
+# Visual Studio / MonoDevelop
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ==========================================
+# 4. COMMON BUILD OUTPUTS & DEPENDENCIES
+# ==========================================
+# Node / JavaScript
+node_modules/
+/dist
+/build
+.npm
+.eslintcache
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.pytest_cache/
+
+# Compiled Languages (C, C++, Rust, Go)
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+/target/
+bin/
+obj/
+
+# Logs and databases
+*.log
+*.sqlite
